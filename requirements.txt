@@ -1,0 +1,2 @@
+liboqs-python @ file:///home/kali/Projects/EncryptFilesPostQuantum/liboqs-python
+pycryptodome==3.21.0
